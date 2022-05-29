@@ -4,6 +4,7 @@ This Program is of Implication of retrieval of student records for admission pro
 How to access the data : - <br> 1] Student Login
                            <br> 2] Admin Login
 <hr>
+
 ### 1] Student Login :
  
 For the student portal you don't need any credentials for login. Using student credentials anyone can put users information in system which will be stored automatically in respective files. As Your Privacy is First priority no one other than admin can access your data
