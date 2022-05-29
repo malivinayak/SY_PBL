@@ -1,0 +1,26 @@
+
+
+                                                            ---
+                                                         --  |  -   Kolhapur Institute
+                                                        --   V      of Technologys
+                                                       -----> Kit   College of Engineering
+                                                        --   ^      ( Autonomous )
+                                                         --  |  -   Kolhapur.
+                                                            ---    
+
+						 Computer Science Engineering
+					             Second Year [B Div]
+							DATA STRUCTURE
+						  PROJECT BASED LEARNING [PBL]
+
+Members : -
+
+1. MALI VINAYAK {Leader}
+2. DOIPHODE RAJESHREE
+3. PATIL PRATHAM MOHAN 
+4. SHINDE AKANKSHA UTTAM
+5. SHELAR SHREYA PRAKASH
+
+Problem Statement : -
+
+                  Implication of retrieval of student records for admission processig
